@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1O_VDjoxK2g8EMp1oQbxkYZW4smFyF1cf
 """
 
-!pip install streamlit -q
+
 import streamlit as st
 
 MENU = {"Pizza": 8.50, "Burger": 6.00, "Juice": 2.50, "Salad": 5.00, "Pasta": 7.50}
